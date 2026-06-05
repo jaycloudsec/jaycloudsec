@@ -13,4 +13,5 @@ jobs:
       - uses: jaycloudsec/tryhackme-badge-workflow@main
         with:
           username: "jaycloudsec"
+          image_path: "./assets/thm_propic.png"
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
