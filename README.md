@@ -12,7 +12,7 @@
 
 ## About
 
-IT Support background across RingCentral and AT&T — VoIP infrastructure, enterprise user management, network troubleshooting, and large-scale customer outreach campaigns. That foundation is now pointed at security operations.
+IT Support background across RingCentral, Xfinity, and AT&T — VoIP infrastructure, enterprise user management, network troubleshooting, and large-scale customer outreach campaigns. That foundation is now pointed at security operations.
 
 Currently self-studying full-time toward a SOC Analyst role, with a long-term goal of Cloud Security Engineering.
 
