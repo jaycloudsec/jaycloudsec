@@ -92,7 +92,7 @@ Currently self-studying full-time toward a SOC Analyst role, with a long-term go
 `Python` `PowerShell` `Bash`
 
 **Operating Systems**
-`Windows` `Linux (Ubuntu/Kali)`
+`Windows` `Linux (Debian · Ubuntu · Slackware)` `BSD (FreeBSD · OpenBSD)`
 
 ---
 
