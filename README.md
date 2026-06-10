@@ -27,6 +27,7 @@ Currently self-studying full-time toward a SOC Analyst role, with a long-term go
 
 **In Progress:**
 
+[![IBM Cybersecurity Analyst](https://img.shields.io/badge/IBM-Cybersecurity%20Analyst-0f62fe?style=for-the-badge&logo=ibm&logoColor=white)]()
 [![AZ-900](https://img.shields.io/badge/-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)]()
 [![SC-900](https://img.shields.io/badge/-SC--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)]()
 [![SEC1](https://img.shields.io/badge/-SEC1%20TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)]()
