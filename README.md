@@ -113,4 +113,4 @@ Open to SOC Analyst, Security Operations, and security-adjacent IT roles — Phi
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaycloudsec/)
 [![Portfolio](https://img.shields.io/badge/-jaycloudsec.github.io-0a0a0a?style=for-the-badge&logo=github&logoColor=white)](https://jaycloudsec.github.io)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jay.dadulo@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:&#106;&#97;&#121;&#46;&#100;&#97;&#100;&#117;&#108;&#111;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;)
