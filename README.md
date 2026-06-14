@@ -24,10 +24,10 @@ Currently self-studying full-time toward a SOC Analyst role, with a long-term go
 [![Cisco Intro to Cybersecurity](https://img.shields.io/badge/-Cisco%20Intro%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/6126897f-a228-40f3-8574-17a34f50ff52/public_url)
 [![Fortinet](https://img.shields.io/badge/-Fortinet%20Security%20Fundamentals-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.credly.com/badges/4d30c25a-7468-403c-9715-6b10d9b92664/public_url)
 [![ISC2 Candidate](https://img.shields.io/badge/-ISC2%20Candidate-006E51?style=for-the-badge&logo=isc2&logoColor=white)](https://www.credly.com/badges/9f148fdc-aace-4ea6-86a8-4746608c86d8)
+[![IBM Cybersecurity Analyst](https://img.shields.io/badge/IBM-Cybersecurity%20Analyst-0f62fe?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/5b9b25d5-2813-404e-b392-d1805cd2d500/public_url)
 
 **In Progress:**
 
-[![IBM Cybersecurity Analyst](https://img.shields.io/badge/IBM-Cybersecurity%20Analyst-0f62fe?style=for-the-badge&logo=ibm&logoColor=white)]()
 [![AZ-900](https://img.shields.io/badge/-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)]()
 [![SC-900](https://img.shields.io/badge/-SC--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)]()
 [![SEC1](https://img.shields.io/badge/-SEC1%20TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)]()
