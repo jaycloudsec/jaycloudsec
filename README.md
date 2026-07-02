@@ -20,11 +20,12 @@ Currently self-studying full-time toward a SOC Analyst role, with a long-term go
 
 ## Certifications
 
-[![SEC1](https://img.shields.io/badge/-SEC1%20TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://www.credly.com/earner/earned/badge/3bf10539-3240-42bf-a995-73dda7a5e874)
+[![SEC1](https://img.shields.io/badge/-SEC1%20TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://www.credly.com/badges/3bf10539-3240-42bf-a995-73dda7a5e874/public_url)
 [![IBM Cybersecurity Analyst](https://img.shields.io/badge/IBM-Cybersecurity%20Analyst-0f62fe?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/5b9b25d5-2813-404e-b392-d1805cd2d500/public_url)
 [![ISC2 Candidate](https://img.shields.io/badge/-ISC2%20Candidate-006E51?style=for-the-badge&logo=isc2&logoColor=white)](https://www.credly.com/badges/9f148fdc-aace-4ea6-86a8-4746608c86d8)
 [![Fortinet](https://img.shields.io/badge/-Fortinet%20Security%20Fundamentals-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.credly.com/badges/4d30c25a-7468-403c-9715-6b10d9b92664/public_url)
 [![Cisco Intro to Cybersecurity](https://img.shields.io/badge/-Cisco%20Intro%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/6126897f-a228-40f3-8574-17a34f50ff52/public_url)
+
 [![Google IT Support](https://img.shields.io/badge/-Google%20IT%20Support-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/professional-cert/14JHD5SHABCG)
 
 
