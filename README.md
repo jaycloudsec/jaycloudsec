@@ -69,11 +69,10 @@ Currently self-studying full-time toward a SOC Analyst role, with a long-term go
 
 ## TryHackMe
 
-- **Top 4% globally**
-- **145+ rooms completed**
+- **Top 3% globally**
+- **170+ rooms completed**
 - Advent of Cyber 2025
 - MetaCTF Flash CTF — December 2025
-- SEC1 exam candidate
 
 [![TryHackMe Profile](https://img.shields.io/badge/View%20Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/jaycloudsec)
 
